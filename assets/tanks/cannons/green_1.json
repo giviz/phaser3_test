@@ -1,0 +1,1196 @@
+{
+	"textures": [
+		{
+			"image": "green_1-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 249,
+				"h": 1084
+			},
+			"scale": 0.25,
+			"frames": [
+				{
+					"filename": "cannon_autocannon_0/idle/000/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 150,
+						"w": 134,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 134,
+						"h": 24
+					}
+				},
+				{
+					"filename": "cannon_plasma_0/idle/030/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 163,
+						"w": 110,
+						"h": 58
+					},
+					"frame": {
+						"x": 137,
+						"y": 1,
+						"w": 110,
+						"h": 58
+					}
+				},
+				{
+					"filename": "cannon_laser_0/idle/000/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 150,
+						"w": 133,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 27,
+						"w": 133,
+						"h": 24
+					}
+				},
+				{
+					"filename": "cannon_heavyballistic_0/idle/000/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 150,
+						"w": 132,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 53,
+						"w": 132,
+						"h": 24
+					}
+				},
+				{
+					"filename": "cannon_plasma_0/idle/210/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 105,
+						"w": 109,
+						"h": 57
+					},
+					"frame": {
+						"x": 135,
+						"y": 61,
+						"w": 109,
+						"h": 57
+					}
+				},
+				{
+					"filename": "cannon_autocannon_0/idle/030/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 163,
+						"w": 122,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 79,
+						"w": 122,
+						"h": 61
+					}
+				},
+				{
+					"filename": "cannon_laser_0/idle/030/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 163,
+						"w": 121,
+						"h": 62
+					},
+					"frame": {
+						"x": 125,
+						"y": 120,
+						"w": 121,
+						"h": 62
+					}
+				},
+				{
+					"filename": "cannon_heavyballistic_0/idle/030/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 163,
+						"w": 121,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 142,
+						"w": 121,
+						"h": 61
+					}
+				},
+				{
+					"filename": "cannon_autocannon_0/idle/210/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 103,
+						"w": 121,
+						"h": 59
+					},
+					"frame": {
+						"x": 124,
+						"y": 184,
+						"w": 121,
+						"h": 59
+					}
+				},
+				{
+					"filename": "cannon_heavyballistic_0/idle/210/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 100,
+						"w": 120,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 205,
+						"w": 120,
+						"h": 62
+					}
+				},
+				{
+					"filename": "cannon_laser_0/idle/210/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 101,
+						"w": 120,
+						"h": 61
+					},
+					"frame": {
+						"x": 123,
+						"y": 245,
+						"w": 120,
+						"h": 61
+					}
+				},
+				{
+					"filename": "cannon_railgun_0/idle/000/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 150,
+						"w": 119,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 269,
+						"w": 119,
+						"h": 24
+					}
+				},
+				{
+					"filename": "cannon_a_0/idle/000/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 158,
+						"w": 119,
+						"h": 12
+					},
+					"frame": {
+						"x": 1,
+						"y": 295,
+						"w": 119,
+						"h": 12
+					}
+				},
+				{
+					"filename": "cannon_plasma_0/idle/000/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 150,
+						"w": 118,
+						"h": 24
+					},
+					"frame": {
+						"x": 122,
+						"y": 308,
+						"w": 118,
+						"h": 24
+					}
+				},
+				{
+					"filename": "cannon_railgun_0/idle/030/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 163,
+						"w": 109,
+						"h": 57
+					},
+					"frame": {
+						"x": 1,
+						"y": 309,
+						"w": 109,
+						"h": 57
+					}
+				},
+				{
+					"filename": "cannon_railgun_0/idle/210/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 105,
+						"w": 108,
+						"h": 57
+					},
+					"frame": {
+						"x": 112,
+						"y": 334,
+						"w": 108,
+						"h": 57
+					}
+				},
+				{
+					"filename": "cannon_a_0/idle/030/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 176,
+						"w": 107,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 368,
+						"w": 107,
+						"h": 50
+					}
+				},
+				{
+					"filename": "cannon_autocannon_0/idle/090/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 179,
+						"w": 20,
+						"h": 102
+					},
+					"frame": {
+						"x": 222,
+						"y": 334,
+						"w": 20,
+						"h": 102
+					}
+				},
+				{
+					"filename": "cannon_a_0/idle/210/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 103,
+						"w": 107,
+						"h": 50
+					},
+					"frame": {
+						"x": 110,
+						"y": 393,
+						"w": 107,
+						"h": 50
+					}
+				},
+				{
+					"filename": "cannon_b_0/idle/000/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 156,
+						"w": 105,
+						"h": 15
+					},
+					"frame": {
+						"x": 1,
+						"y": 420,
+						"w": 105,
+						"h": 15
+					}
+				},
+				{
+					"filename": "cannon_flamer_0/idle/000/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 150,
+						"w": 100,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 437,
+						"w": 100,
+						"h": 24
+					}
+				},
+				{
+					"filename": "cannon_laser_0/idle/090/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 179,
+						"w": 20,
+						"h": 100
+					},
+					"frame": {
+						"x": 219,
+						"y": 438,
+						"w": 20,
+						"h": 100
+					}
+				},
+				{
+					"filename": "cannon_b_0/idle/030/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 242,
+						"y": 179,
+						"w": 95,
+						"h": 48
+					},
+					"frame": {
+						"x": 103,
+						"y": 445,
+						"w": 95,
+						"h": 48
+					}
+				},
+				{
+					"filename": "cannon_b_0/idle/090/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 202,
+						"w": 14,
+						"h": 82
+					},
+					"frame": {
+						"x": 200,
+						"y": 445,
+						"w": 14,
+						"h": 82
+					}
+				},
+				{
+					"filename": "cannon_b_0/idle/210/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 100,
+						"w": 95,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 463,
+						"w": 95,
+						"h": 48
+					}
+				},
+				{
+					"filename": "cannon_flamer_0/idle/030/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 163,
+						"w": 92,
+						"h": 52
+					},
+					"frame": {
+						"x": 98,
+						"y": 495,
+						"w": 92,
+						"h": 52
+					}
+				},
+				{
+					"filename": "cannon_flamer_0/idle/210/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 111,
+						"w": 91,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 513,
+						"w": 91,
+						"h": 51
+					}
+				},
+				{
+					"filename": "cannon_heavyballistic_0/idle/090/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 179,
+						"w": 20,
+						"h": 99
+					},
+					"frame": {
+						"x": 192,
+						"y": 529,
+						"w": 20,
+						"h": 99
+					}
+				},
+				{
+					"filename": "cannon_autocannon_0/idle/270/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 46,
+						"w": 20,
+						"h": 91
+					},
+					"frame": {
+						"x": 214,
+						"y": 540,
+						"w": 20,
+						"h": 91
+					}
+				},
+				{
+					"filename": "cannon_a_0/idle/090/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 186,
+						"y": 194,
+						"w": 12,
+						"h": 90
+					},
+					"frame": {
+						"x": 236,
+						"y": 540,
+						"w": 12,
+						"h": 90
+					}
+				},
+				{
+					"filename": "cannon_a_0/idle/270/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 186,
+						"y": 46,
+						"w": 12,
+						"h": 87
+					},
+					"frame": {
+						"x": 236,
+						"y": 632,
+						"w": 12,
+						"h": 87
+					}
+				},
+				{
+					"filename": "cannon_heavyballistic_0/idle/060/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 173,
+						"w": 79,
+						"h": 91
+					},
+					"frame": {
+						"x": 94,
+						"y": 549,
+						"w": 79,
+						"h": 91
+					}
+				},
+				{
+					"filename": "cannon_b_0/idle/270/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 44,
+						"w": 14,
+						"h": 80
+					},
+					"frame": {
+						"x": 175,
+						"y": 549,
+						"w": 14,
+						"h": 80
+					}
+				},
+				{
+					"filename": "cannon_heavyballistic_0/idle/270/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 46,
+						"w": 20,
+						"h": 91
+					},
+					"frame": {
+						"x": 191,
+						"y": 630,
+						"w": 20,
+						"h": 91
+					}
+				},
+				{
+					"filename": "cannon_laser_0/idle/270/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 46,
+						"w": 20,
+						"h": 91
+					},
+					"frame": {
+						"x": 213,
+						"y": 633,
+						"w": 20,
+						"h": 91
+					}
+				},
+				{
+					"filename": "cannon_heavyballistic_0/idle/240/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 60,
+						"w": 79,
+						"h": 91
+					},
+					"frame": {
+						"x": 1,
+						"y": 566,
+						"w": 79,
+						"h": 91
+					}
+				},
+				{
+					"filename": "cannon_autocannon_0/idle/060/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 173,
+						"w": 78,
+						"h": 93
+					},
+					"frame": {
+						"x": 82,
+						"y": 642,
+						"w": 78,
+						"h": 93
+					}
+				},
+				{
+					"filename": "cannon_autocannon_0/idle/240/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 61,
+						"w": 78,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 659,
+						"w": 78,
+						"h": 90
+					}
+				},
+				{
+					"filename": "cannon_plasma_0/idle/090/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 179,
+						"w": 20,
+						"h": 91
+					},
+					"frame": {
+						"x": 162,
+						"y": 642,
+						"w": 20,
+						"h": 91
+					}
+				},
+				{
+					"filename": "cannon_flamer_0/idle/060/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 173,
+						"w": 60,
+						"h": 75
+					},
+					"frame": {
+						"x": 184,
+						"y": 726,
+						"w": 60,
+						"h": 75
+					}
+				},
+				{
+					"filename": "cannon_railgun_0/idle/090/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 179,
+						"w": 20,
+						"h": 91
+					},
+					"frame": {
+						"x": 162,
+						"y": 735,
+						"w": 20,
+						"h": 91
+					}
+				},
+				{
+					"filename": "cannon_laser_0/idle/060/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 173,
+						"w": 77,
+						"h": 91
+					},
+					"frame": {
+						"x": 81,
+						"y": 737,
+						"w": 77,
+						"h": 91
+					}
+				},
+				{
+					"filename": "cannon_laser_0/idle/240/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 61,
+						"w": 77,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 751,
+						"w": 77,
+						"h": 90
+					}
+				},
+				{
+					"filename": "cannon_b_0/idle/060/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 218,
+						"y": 196,
+						"w": 60,
+						"h": 73
+					},
+					"frame": {
+						"x": 184,
+						"y": 803,
+						"w": 60,
+						"h": 73
+					}
+				},
+				{
+					"filename": "cannon_plasma_0/idle/270/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 54,
+						"w": 20,
+						"h": 83
+					},
+					"frame": {
+						"x": 160,
+						"y": 828,
+						"w": 20,
+						"h": 83
+					}
+				},
+				{
+					"filename": "cannon_a_0/idle/060/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 211,
+						"y": 189,
+						"w": 66,
+						"h": 79
+					},
+					"frame": {
+						"x": 182,
+						"y": 878,
+						"w": 66,
+						"h": 79
+					}
+				},
+				{
+					"filename": "cannon_plasma_0/idle/060/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 173,
+						"w": 72,
+						"h": 85
+					},
+					"frame": {
+						"x": 80,
+						"y": 830,
+						"w": 72,
+						"h": 85
+					}
+				},
+				{
+					"filename": "cannon_plasma_0/idle/240/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 67,
+						"w": 72,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 843,
+						"w": 72,
+						"h": 84
+					}
+				},
+				{
+					"filename": "cannon_railgun_0/idle/270/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 55,
+						"w": 20,
+						"h": 82
+					},
+					"frame": {
+						"x": 154,
+						"y": 913,
+						"w": 20,
+						"h": 82
+					}
+				},
+				{
+					"filename": "cannon_railgun_0/idle/060/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 173,
+						"w": 71,
+						"h": 84
+					},
+					"frame": {
+						"x": 176,
+						"y": 959,
+						"w": 71,
+						"h": 84
+					}
+				},
+				{
+					"filename": "cannon_railgun_0/idle/240/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 69,
+						"w": 71,
+						"h": 82
+					},
+					"frame": {
+						"x": 75,
+						"y": 917,
+						"w": 71,
+						"h": 82
+					}
+				},
+				{
+					"filename": "cannon_flamer_0/idle/090/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 179,
+						"w": 20,
+						"h": 81
+					},
+					"frame": {
+						"x": 148,
+						"y": 997,
+						"w": 20,
+						"h": 81
+					}
+				},
+				{
+					"filename": "cannon_a_0/idle/240/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 61,
+						"w": 66,
+						"h": 79
+					},
+					"frame": {
+						"x": 1,
+						"y": 929,
+						"w": 66,
+						"h": 79
+					}
+				},
+				{
+					"filename": "cannon_b_0/idle/240/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 58,
+						"w": 60,
+						"h": 73
+					},
+					"frame": {
+						"x": 1,
+						"y": 1010,
+						"w": 60,
+						"h": 73
+					}
+				},
+				{
+					"filename": "cannon_flamer_0/idle/240/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 79,
+						"w": 60,
+						"h": 72
+					},
+					"frame": {
+						"x": 63,
+						"y": 1010,
+						"w": 60,
+						"h": 72
+					}
+				},
+				{
+					"filename": "cannon_flamer_0/idle/270/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 384,
+						"h": 384
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 67,
+						"w": 20,
+						"h": 70
+					},
+					"frame": {
+						"x": 125,
+						"y": 1001,
+						"w": 20,
+						"h": 70
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c5aba246d77302479c415aaf82ae86f4:51d0d7319d636d3a5f3a8a8051adff84:3332ce1d03fe719eba86b9c22ea9de74$"
+	}
+}
